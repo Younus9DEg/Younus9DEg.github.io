@@ -576,7 +576,7 @@ function Seo({ path }: { path: string }) {
         logo: `${base}/bola-tours-logo.jpeg`,
         description:
           "Galle tours, Mirissa trips, Sri Lanka private excursions and scooter or motorcycle bike rentals.",
-        telephone: "+94 740094273",
+        telephone: "+94 707316007",
         email: BUSINESS_EMAILS[0],
         areaServed: ["Sri Lanka", "Galle", "Mirissa", "Hikkaduwa", "Ella", "Kalutara"],
         knowsAbout: [
@@ -917,8 +917,8 @@ const districtCities: MapStop[] = [
   { name: "Horton Plains", tag: "Cloud forest", district: "Nuwara Eliya", lat: 6.8020, lng: 80.8080, days: 1 },
 ];
 
-const WA = "94740094273";
-const BIKE_RENTAL_WA = "94740094273";
+const WA = "94707316007";
+const BIKE_RENTAL_WA = "94707316007";
 const STARTING_PRICE = "Starting from $1 / 300 LKR";
 const formatUsd = (value: number) => `$${value}`;
 const BUSINESS_EMAILS = [
@@ -1400,7 +1400,7 @@ function Footer() {
           <h4>Say hello</h4>
           <p>Bola Tours shops: Galle, Kalutara, Ella, Hikkaduwa</p>
           <a href="tel:+94725553858">+94 72 555 3858</a>
-          <a href="tel:+94740094273">+94 74 009 4273</a>
+          <a href="tel:+94707316007">+94 70 731 6007</a>
           <a href="tel:+94758687510">+94 75 868 7510</a>
           <div className="footer-email-list">
             {BUSINESS_EMAILS.map((email) => (
